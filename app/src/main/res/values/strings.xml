@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Boombux</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="proceed">Proceed</string>
+    <string name="log_in">Log in</string>
+    <string name="password">Password</string>
+    <string name="log_in1">Log in</string>
+    <string name="forgotten_your_password_click_here">Forgotten your password?Click here</string>
+    <string name="email">Email</string>
+    <string name="get_password_link">Get Password Link</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="or">Or</string>
+    <string name="enter_your_email_address_in_the_space_below_and_a_password_reset_link_will_be_sent">Enter your email address in the space below and a password reset link will be sent</string>
+    <string name="enter_email_here">Enter email here</string>
+    <string name="account_recovery">Account Recovery</string>
+    <string name="todo">TODO</string>
+    <string name="vibe_with_your_music_style">Vibe with your music style</string>
+    <string name="todo1">TODO</string>
+    <string name="log_in2">Log in</string>
+    <string name="sign_up_here">Sign Up here</string>
+    <string name="song_name">Song Name</string>
+    <string name="library11">Library</string>
+</resources>

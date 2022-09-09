@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/lib"
+        android:layout_width="match_parent"
+        android:layout_height="69dp"
+        android:paddingStart="20dp"
+        android:paddingEnd="10dp"
+        android:paddingTop="20dp"
+        android:text="@string/library11"
+        android:textColor="#000"
+        android:textSize="36sp" />
+    <ListView
+        android:id="@+id/library"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingStart="30dp"
+        android:paddingEnd="5dp"
+        android:paddingTop="90dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+
+    </ListView>
+</RelativeLayout>

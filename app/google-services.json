@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "522985843125",
+    "firebase_url": "https://boombux-d4825.firebaseio.com",
+    "project_id": "boombux-d4825",
+    "storage_bucket": "boombux-d4825.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522985843125:android:c5fd9e0324506aa8cc51fc",
+        "android_client_info": {
+          "package_name": "com.e.boombux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522985843125-e10j906sfj7tug1crg94qqcq86auvj50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQkdX2GgrOsYkCUm9Q_BVjnY-PSsQnuCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522985843125-e10j906sfj7tug1crg94qqcq86auvj50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
